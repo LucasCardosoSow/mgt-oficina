@@ -13,6 +13,6 @@ export const OFICINA = {
   desde: '2005',
   // WhatsApp da oficina, só números com DDD (ex.: 41999990000).
   // Aparece no botão "Falar com a oficina" do link do cliente.
-  whatsapp: '',
-  endereco: '',
+  whatsapp: '41992556828',
+  endereco: 'Rua Eliud Alves Pereira, 581 · São José dos Pinhais - PR',
 };
